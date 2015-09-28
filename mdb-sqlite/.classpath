@@ -8,6 +8,6 @@
 	<classpathentry kind="lib" path="lib/bcprov-jdk16-1.46.jar"/>
 	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="lib/commons-lang-2.4.jar"/>
-	<classpathentry kind="lib" path="sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="lib/sqlite-jdbc-3.8.11.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
