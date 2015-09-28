@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/junit-4.4.jar"/>
+	<classpathentry kind="lib" path="lib/jackcess-2.1.2.jar" sourcepath="/Users/anatoly314/.m2/repository/com/healthmarketscience/jackcess/jackcess/2.1.2/jackcess-2.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/jarjar-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/jackcess-encrypt-2.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/bcprov-jdk16-1.46.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
